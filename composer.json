@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/validator",
+    "name": "jackiedo/omnipay-validator",
     "description": "Some pre-defined rules for validation in Omnipay payment processing library.",
     "keywords": [
         "gateway",
