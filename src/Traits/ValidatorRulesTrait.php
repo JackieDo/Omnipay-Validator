@@ -3,7 +3,7 @@
 /**
  * ValidatorRulesTrait
  *
- * @package omnipay-vnpay
+ * @package omnipay-validator
  * @author Jackie Do <anhvudo@gmail.com>
  * @copyright 2018
  * @version $Id$
